@@ -1,0 +1,6 @@
+[package]
+name = "complicated_stuff"
+version = "0.1.0"
+authors = ["aiman <imbacakes@gmail.com>"]
+
+[dependencies]
